@@ -13,8 +13,8 @@
 #### └── Pacman.java
 
 
-## ▶️ How to Compile and Run
-javac Pacman.java /n
+### ▶️ How to Compile and Run
+javac Pacman.java 
 java Pacman
 
 ## Game Mechanics
@@ -25,4 +25,4 @@ Collision Detection: Pixel-perfect collision with ghosts
 Death Sequence: Lose a life when caught by ghosts
 Win Condition: Clear all dots to advance to next leve
 
-## ENJOY!
+# ENJOY!
