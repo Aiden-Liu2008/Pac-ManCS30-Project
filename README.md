@@ -14,7 +14,7 @@
 
 
 ## ▶️ How to Compile and Run
-javac Pacman.java
+javac Pacman.java /n
 java Pacman
 
 ## Game Mechanics
