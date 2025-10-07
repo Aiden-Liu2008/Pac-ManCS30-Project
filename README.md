@@ -7,7 +7,7 @@ Pacman Java Game
 /_/    \__,_/_/\__/\____/_/ /_/ /_/  
 
 Project Structure
-text
+
 Pacman/
 ├── src/
 │   └── resources/
