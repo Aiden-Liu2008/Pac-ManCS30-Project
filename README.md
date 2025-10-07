@@ -1,44 +1,32 @@
-Pacman Java Game
+# Pacman Java Game
 
-    ____       __  __                 
-   / __ \____/ /_/ /_____  ____ ___  
-  / /_/ / __  / / __/ __ \/ __ `__ \ 
- / ____/ /_/ / / /_/ /_/ / / / / / / 
-/_/    \__,_/_/\__/\____/_/ /_/ /_/  
-
-Project Structure
-
+##  Project Structure
 Pacman/
 ├── src/
-│   └── resources/
-│       └── images/
-│           ├── up1.png, up2.png, up3.png, up4.png
-│           ├── down1.png, down2.png, down3.png, down4.png
-│           ├── left1.png, left2.png, left3.png, left4.png
-│           ├── right1.png, right2.png, right3.png, right4.png
-│           └── ghost.png
+│ └── resources/
+│ └── images/
+│ ├── up1.png, up2.png, up3.png, up4.png
+│ ├── down1.png, down2.png, down3.png, down4.png
+│ ├── left1.png, left2.png, left3.png, left4.png
+│ ├── right1.png, right2.png, right3.png, right4.png
+│ └── ghost.png
 └── Pacman.java
 
-How to Compile the Game:
+
+## ▶️ How to Compile and Run
+
+# Compile
 javac Pacman.java
 
-Run the game:
+# Run
 java Pacman
 
-  .---.
- | 0 0 | 
-  '---'
-  .---.
- | 0 0 |
-  '---'
+# Game Mechanics
 
-Game Mechanics
 Scoring: 10 points per dot, bonus points for level completion
-
 Level Progression: Each level adds more ghosts
-
 Collision Detection: Pixel-perfect collision with ghosts
-
 Death Sequence: Lose a life when caught by ghosts
+Win Condition: Clear all dots to advance to next leve
 
-Win Condition: Clear all dots to advance to next level
+## ENJOY!
