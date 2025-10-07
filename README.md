@@ -14,14 +14,10 @@ Pacman/
 
 
 ## ▶️ How to Compile and Run
-
-# Compile
 javac Pacman.java
-
-# Run
 java Pacman
 
-# Game Mechanics
+## Game Mechanics
 
 Scoring: 10 points per dot, bonus points for level completion
 Level Progression: Each level adds more ghosts
